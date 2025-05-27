@@ -1,0 +1,15 @@
+C:\C#\OOPExercise\OOP principle\bin\Debug\net8.0\OOP exercise.exe
+C:\C#\OOPExercise\OOP principle\bin\Debug\net8.0\OOP exercise.deps.json
+C:\C#\OOPExercise\OOP principle\bin\Debug\net8.0\OOP exercise.runtimeconfig.json
+C:\C#\OOPExercise\OOP principle\bin\Debug\net8.0\OOP exercise.dll
+C:\C#\OOPExercise\OOP principle\bin\Debug\net8.0\OOP exercise.pdb
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.AssemblyInfoInputs.cache
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.AssemblyInfo.cs
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.csproj.CoreCompileInputs.cache
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.sourcelink.json
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.dll
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\refint\OOP exercise.dll
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.pdb
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\OOP exercise.genruntimeconfig.cache
+C:\C#\OOPExercise\OOP principle\obj\Debug\net8.0\ref\OOP exercise.dll

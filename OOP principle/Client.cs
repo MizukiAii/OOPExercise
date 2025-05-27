@@ -12,6 +12,16 @@ namespace blabla
        public int PhoneNumber;
        public string Email;
        public long BankId;
-       public int BankBalance;
+       public decimal BankBalance;
+
+        public string ChangeName(string NewName)
+        {
+            FullName = NewName;
+            return NewName;
+
+        }
     }
+
+    
 }
+
